@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Odvykačka</string>
+    <string name="date">Dátum</string>
+    <string name="description">Popis</string>
+    <string name="save">Uložiť</string>
+    <string name="new_log">Nový záznam</string>
+    <string name="my_logs">Záznamy</string>
+    <string name="log_detail">Detail záznamu</string>
+    <string name="settings">Nastavenia</string>
+    <string name="delete_profile">Zmazať profil</string>
+    <string name="edit_log">Upraviť záznam</string>
+    <string name="need_to_fill_description">Musíš vyplniť popis</string>
+    <string name="log_day">Vytvoriť záznam</string>
+    <string name="title_activity_new_profile">Vytvoriť nový profil</string>
+    <string name="create_new_profile">Vytvoriť nový profil</string>
+    <string name="set_your_nick">Zadaj svoju prezývku</string>
+    <string name="please_set_your_nick">Zadaj svoju prezývku</string>
+    <string name="set_your_addiction">Zadaj svoju závislosť</string>
+    <string name="delete_log">Zmazať záznam</string>
+    <string name="counter_of_yours_feelings">Počítadlo tvojich pocitov</string>
+    <string name="nickname">Prezývka</string>
+    <string name="addiction">Závislosť</string>
+    <string name="update_profile">Aktualizovať</string>
+    <string name="feeling">Pocit</string>
+    <string name="days_without">Dní bez</string>
+    <string name="you_cant_log_future">Nemôžeš urobiť záznam do budúcnosti</string>
+    <string name="update_log">Upraviť záznam</string>
+    <string name="select_your_profile_picture">Vyber svoj profilový obrázok</string>
+    <string name="clear">Vyčistiť</string>
+    <string name="this_day_is_already_loged">Tento deň už má záznam</string>
+</resources>

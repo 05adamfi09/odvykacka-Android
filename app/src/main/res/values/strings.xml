@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Odvykačka</string>
+    <string name="date">Date</string>
+    <string name="clear">Clear</string>
+    <string name="description">Description</string>
+    <string name="save">Save</string>
+    <string name="new_log">New log</string>
+    <string name="my_logs">My logs</string>
+    <string name="log_detail">Log detail</string>
+    <string name="settings">Settings</string>
+    <string name="delete_profile">Delete Profile</string>
+    <string name="edit_log">Edit log</string>
+    <string name="need_to_fill_description">You need to fill description</string>
+    <string name="log_day">Log day</string>
+    <string name="title_activity_new_profile">Create new profile</string>
+    <string name="create_new_profile">Create new profile</string>
+    <string name="set_your_nick">Set your nickname</string>
+    <string name="please_set_your_nick">Set your nickname</string>
+    <string name="set_your_addiction">Set your addiction</string>
+    <string name="delete_log">Delete log</string>
+    <string name="counter_of_yours_feelings">Counter of yours feelings</string>
+    <string name="nickname">Nickname</string>
+    <string name="addiction">Addiction</string>
+    <string name="update_profile">Update profile</string>
+    <string name="feeling">Feeling</string>
+    <string name="days_without">Days without</string>
+    <string name="you_cant_log_future">You cant log in future</string>
+    <string name="update_log">Update log</string>
+    <string name="select_your_profile_picture">Select your profile picture</string>
+    <string name="this_day_is_already_loged">This day is already loged</string>
+</resources>
